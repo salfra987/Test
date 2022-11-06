@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81fc6f60-214e-4b10-a01c-70e951de3af2" name="Changes" comment="Push 3">
+    <list default="true" id="81fc6f60-214e-4b10-a01c-70e951de3af2" name="Changes" comment="Push 4 Emailing Works Now">
+      <change afterPath="$PROJECT_DIR$/src/main/java/RainUpdater.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/pippi/Test",
+    "last_opened_file_path": "C:/Users/pippi/IdeaProjects/a07-pizza-salfra987",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -95,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667679178343</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Push 4 Emailing Works Now">
+      <created>1667688076984</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667688076984</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,7 +120,8 @@
     <MESSAGE value="Push" />
     <MESSAGE value="Push 2" />
     <MESSAGE value="Push 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Push 3" />
+    <MESSAGE value="Push 4 Emailing Works Now" />
+    <option name="LAST_COMMIT_MESSAGE" value="Push 4 Emailing Works Now" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
