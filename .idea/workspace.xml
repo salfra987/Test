@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81fc6f60-214e-4b10-a01c-70e951de3af2" name="Changes" comment="Push 4 Emailing Works Now">
-      <change afterPath="$PROJECT_DIR$/src/main/java/RainUpdater.java" afterDir="false" />
+    <list default="true" id="81fc6f60-214e-4b10-a01c-70e951de3af2" name="Changes" comment="Push 5 Created RainUpdater class">
+      <change afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +37,21 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/pippi/IdeaProjects/a07-pizza-salfra987",
+    "last_opened_file_path": "C:/Users/pippi/Test",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main" />
       <module name="Test" />
@@ -54,6 +61,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
@@ -102,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667688076984</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Push 5 Created RainUpdater class">
+      <created>1667693947330</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667693947330</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,7 +136,8 @@
     <MESSAGE value="Push 2" />
     <MESSAGE value="Push 3" />
     <MESSAGE value="Push 4 Emailing Works Now" />
-    <option name="LAST_COMMIT_MESSAGE" value="Push 4 Emailing Works Now" />
+    <MESSAGE value="Push 5 Created RainUpdater class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Push 5 Created RainUpdater class" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
